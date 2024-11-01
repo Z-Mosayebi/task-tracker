@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meeting at University",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "id": "1368",
+      "text": "deploy",
+      "day": "November 1th at 11",
+      "reminder": true
+    },
+    {
+      "id": "6ade",
+      "text": "Add Animation",
+      "day": "November 1st. at 13",
+      "reminder": true
+    },
+    {
+      "id": "bf37",
+      "text": "Shopping",
+      "day": "Rewe 1st on 13:30.",
+      "reminder": true
+    }
+  ]
+}
