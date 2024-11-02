@@ -92,7 +92,7 @@ const App = () => {
   };
 
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="container">
         <Header
           onAdd={() => setShowAddTask(!showAddTask)}
