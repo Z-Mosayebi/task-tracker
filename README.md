@@ -1,14 +1,11 @@
 # Task Tracker Application
 
-![Task Tracker Banner](https://your-link-to-banner-image)
 
 A simple yet effective task-tracking application to help you manage daily tasks efficiently. Built with **React**, this app showcases essential front-end skills, including component-based development, state management, and asynchronous API interactions. The design emphasizes responsiveness, offering a smooth user experience on both desktop and mobile devices.
 
 ## Table of Contents
 
 - [Features](#features)
-- [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
@@ -22,14 +19,6 @@ A simple yet effective task-tracking application to help you manage daily tasks 
 - Responsive design suitable for both desktop and mobile experiences.
 - Built with a focus on simplicity and user-friendliness.
 
-## Live Demo
-
-You can try out the live version of the app here: [Task Tracker on GitHub Pages](https://your-username.github.io/task-tracker)
-
-## Screenshots
-
-![Add Task Screenshot](https://your-link-to-add-task-screenshot)
-![Task List Screenshot](https://your-link-to-task-list-screenshot)
 
 ## Installation
 
@@ -77,7 +66,7 @@ The Task Tracker app allows you to add tasks with reminders, delete tasks, and m
 
 ### Toggling a Reminder
 
-- Click the left border of the task to toggle the reminder.
+- Double-click the task to toggle the reminder.
 
 ### Deleting a Task
 
